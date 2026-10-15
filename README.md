@@ -38,21 +38,19 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+<h3 align="center">📊 Estatísticas e Linguagens</h3>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikaique&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs">
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=henrikaique&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikaique&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
+---
 
-<p>
-###📌 Projetos em Destaque
+<h3 align="center">📌 Projetos em Destaque</h3>
 
-
+<p align="center">
   <a href="https://github.com/henrikaique/projeto_cdt">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=henrikaique&repo=projeto_cdt&theme=tokyonight&hide_border=true" />
-
- <a href="https://github.com/henrikaique/projeto_cdt">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=henrikaique&repo=projeto_cdt&theme=tokyonight&hide_border=true" />
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrikaique&repo=projeto_cdt&theme=tokyonight&hide_border=true" alt="Projeto CDT" />
   </a>
 </p>
