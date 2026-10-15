@@ -43,7 +43,7 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikaique&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs">
 </p>
 <p>
-  📌 Projetos em Destaque
+###📌 Projetos em Destaque
 
 
   <a href="https://github.com/henrikaique/projeto_cdt">
@@ -51,5 +51,6 @@
 
  <a href="https://github.com/henrikaique/projeto_cdt">
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=henrikaique&repo=projeto_cdt&theme=tokyonight&hide_border=true" />
+    </a>
   </a>
 </p>
